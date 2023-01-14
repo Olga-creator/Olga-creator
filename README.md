@@ -47,3 +47,8 @@ Currently, I am a Student at Software Engineering Bootcamp at HyperionDev. And m
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/117369262/212442191-c48a5124-3237-4216-a2a8-08255eb80f86.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/117369262/212442238-400c3f86-cc6b-40ad-8433-5bd9159a086d.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/117369262/212442140-e963ed5a-25a9-4fb9-ad2e-d27305da98de.png"></code>
+
+
