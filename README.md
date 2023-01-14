@@ -33,7 +33,7 @@ Currently, I am a Student at Software Engineering Bootcamp at HyperionDev. And m
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Projects using Python and SQL. 
-- 🌱 I’m currently a Student - Software Engineering Bootcamp at HyperionDev.
+- 🌱 I’m currently a Student
 - 👯 Part of Developer Community.
 - 💬 Ask me anything. I do enjoy talking to people.
 - 📫 How to reach me: [Olga Paksevatkina](https://www.linkedin.com/in/olga-paksevatkina-51b61064/)
