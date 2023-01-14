@@ -36,15 +36,14 @@ Currently, I am a Student at Software Engineering Bootcamp at HyperionDev. And m
 - 🌱 I’m currently a Student - Software Engineering Bootcamp at HyperionDev.
 - 👯 Part of Developer Community.
 - 💬 Ask me anything. I do enjoy talking to people.
-- 📫 How to reach me: 
-- 😄 Things I love: new technology & innovations, communicate with machines as well as with people, explore new places - travelling, create new recipes and tweak old ones, sports:)
-- ⚡ Fun fact: There are more than 700 coding languages out there! ...
+- 📫 How to reach me: LinkedIn: [Olga Paksevatkina](https://www.linkedin.com/in/olga-paksevatkina-51b61064/)
+- 😄 Things I love: new technology & innovations, communicate with machines as well as with people, explore new places, create new recipes and tweak old ones, sports)
+- ⚡ Fun fact: There are more than 700 coding languages out there!
 
 **Languages and Tools:**
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
