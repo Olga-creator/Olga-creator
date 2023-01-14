@@ -27,7 +27,7 @@ I'm Olga🙌, a Junior Software Developer. I love new challenges and performing 
 Currently, I am a Student at Software Engineering Bootcamp at HyperionDev. And my course pass rate is 100%. ❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20Python.png" />
 
 
 **Talking about Personal Stuffs:**
@@ -36,7 +36,7 @@ Currently, I am a Student at Software Engineering Bootcamp at HyperionDev. And m
 - 🌱 I’m currently a Student - Software Engineering Bootcamp at HyperionDev.
 - 👯 Part of Developer Community.
 - 💬 Ask me anything. I do enjoy talking to people.
-- 📫 How to reach me: LinkedIn: [Olga Paksevatkina](https://www.linkedin.com/in/olga-paksevatkina-51b61064/)
+- 📫 How to reach me: [Olga Paksevatkina](https://www.linkedin.com/in/olga-paksevatkina-51b61064/)
 - 😄 Things I love: new technology & innovations, communicate with machines as well as with people, explore new places, create new recipes and tweak old ones, sports)
 - ⚡ Fun fact: There are more than 700 coding languages out there!
 
